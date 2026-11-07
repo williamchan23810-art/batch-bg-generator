@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+temp_frames/
+output/*.mp4
+.env
+venv/
